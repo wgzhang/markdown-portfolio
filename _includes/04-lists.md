@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* meat
+* fruit
+  * apple
+  * watermelon
+1. plant
+2. animal
+   1. cat
+   2. mouse
